@@ -27,10 +27,9 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 - animasi scroll
 - Clean Code & Best Practice
 
-### 📬 Kontak pribadi
+### 📬 Kontak
 - Email: [davaelyanta@gmail.com](mailto:davaelyanta@gmail.com)
-- GitHub: [github.com/notcore](https://github.com/notcore)
-
+- Instagram: @hyuma_dev
 ---
 
 > persetan dengan orang yang menginjak orang lain hanya untuk meninggikan drajat sosialnya.
