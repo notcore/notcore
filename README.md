@@ -1,3 +1,7 @@
+<img src="[https://tenor.com/bYfzP.gif](https://tenor.com/id/view/calm-and-relaxing-place-wallpaper-gifs-gif-26713547)" width="100%" />
+
+---
+
 # 👋 Halo!
 
 aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript**, **Laravel 12**, **Tailwind CSS**, **reactJs**, dan **NextJs** . baru aja belajar selama 1 tahun, aku akan selalu belajar dan berkembang di era AI ini! _walau masa depan progammer bakal diganti AI_
@@ -16,7 +20,7 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 - 🎨 **Frontend:** JavaScript, ReactJS, TailwindCss
 - 🛠 **Tools:** Git, GitHub, VSCode, Laragon
 
-### 📈 Saat ini aku lagi belajar:
+### 📈 Saat ini aku belajar:
 - RESTFULL API (Laravel)
 - Dasar-dasar ReactJS
 - Dasar-dasar TypeScript
@@ -28,8 +32,6 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 - GitHub: [github.com/notcore](https://github.com/notcore)
 
 ---
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295dGFtcWwwMXplMXh4MmF1bDk3c2I1ZDk0ajlvZmxkOGZwb2p4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xkI1eE0DzlxNAv780C/giphy.gif" width="100%"/>
 
 > persetan dengan orang yang menginjak orang lain hanya untuk meninggikan drajat sosialnya.
 
