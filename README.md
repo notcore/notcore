@@ -28,6 +28,8 @@ Saya seorang **Fullstack Web Developer** yang lagi fokus ngembangin skill **Type
 - GitHub: [github.com/notcore](https://github.com/notcore)
 
 ---
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295dGFtcWwwMXplMXh4MmF1bDk3c2I1ZDk0ajlvZmxkOGZwb2p4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xkI1eE0DzlxNAv780C/giphy.gif)
-> berilah harapan kepadaku maka aku akan menjadi seorang yang ambisius tanpa mengenal waktu, tapi jangan lupa dengan janjinya.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb295dGFtcWwwMXplMXh4MmF1bDk3c2I1ZDk0ajlvZmxkOGZwb2p4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xkI1eE0DzlxNAv780C/giphy.gif" width="100%"/>
+
+> persetan dengan orang yang menginjak orang lain hanya untuk meninggikan drajat sosialnya.
 
