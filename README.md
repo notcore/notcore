@@ -1,4 +1,4 @@
-<img src="[https://tenor.com/bYfzP.gif](https://tenor.com/id/view/calm-and-relaxing-place-wallpaper-gifs-gif-26713547)" width="100%" />
+<img src="https://tenor.com/bYfzP.gif" width="100%" />
 
 ---
 
