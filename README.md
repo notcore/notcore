@@ -6,6 +6,8 @@
 
 aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript**, **Laravel 12**, **Tailwind CSS**, **reactJs**, **Golang**, dan **NextJs** . baru aja belajar selama 1 tahun, aku akan selalu belajar dan berkembang di era AI ini! _walau masa depan progammer bakal diganti AI_
 
+
+
 ### ⚙️ Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notcore&layout=compact)
@@ -23,6 +25,8 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 - 🎨 **Frontend:** JavaScript, ReactJS, TailwindCss
 - 🛠 **Tools:** Git, GitHub, VSCode, Laragon
 
+
+
 ### 📈 Saat ini aku belajar:
 - RESTFULL API (Laravel)
 - Dasar-dasar ReactJS
@@ -30,6 +34,8 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 - Dasar-dasar TypeScript
 - animasi scroll
 - Clean Code & Best Practice
+
+
 
 ### 📬 Kontak
 - Email: [davaelyanta@gmail.com](mailto:davaelyanta@gmail.com)
