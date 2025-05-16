@@ -16,6 +16,7 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-FF2D20?style=for-the-badge&logo=golang&logoColor=white" />
 </p>
 
 - ⚙️ **Backend:** PHP, Laravel
