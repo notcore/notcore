@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hai! ini hyuma dev
+# 👋 Hai! ini hyuma dev <img src="https://github.com/egonelbre/gophers/raw/master/README/gopher.png" alt="Golang Gopher" width="100" />
 
 aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript**, **Laravel 12**, **Tailwind CSS**, **reactJs**, **Golang**, dan **NextJs** . baru aja belajar selama 1 tahun, aku akan selalu belajar dan berkembang di era AI ini! _walau masa depan progammer bakal diganti AI_
 
