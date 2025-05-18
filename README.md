@@ -11,7 +11,7 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 
 ### ⚙️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notcore&layout=compact&hide=css,html,blade,c++,java,ruby,Shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notcore&layout=compact&hide=css,html,blade,c++,java,ruby,Shell,javascript)
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
