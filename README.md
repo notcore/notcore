@@ -5,7 +5,7 @@
 # 👋 Hai! ini hyuma dev
 
 
-aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript**, **Laravel 12**,**python**, **Tailwind CSS**, **reactJs**, **Golang**, dan **NextJs** . baru aja belajar selama 1 tahun, aku akan selalu belajar dan berkembang di era AI ini! _walau masa depan progammer bakal diganti AI_
+aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript**, **Laravel 12**,**python**, **Tailwind CSS**, **reactJs**, **Golang**, dan **NextJs** . baru aja belajar selama 1 tahun,dan aku akan selalu belajar dan berkembang di era AI ini! _walau masa depan progammer bakal diganti AI_
 
 
 
