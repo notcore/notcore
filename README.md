@@ -11,8 +11,6 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 
 ### ⚙️ Tech Stack
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notcore&theme=github)
-
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -27,8 +25,7 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 ### 📈 Saat ini aku belajar:
 - RESTFULL API (Laravel)
 - Dasar-dasar ReactJs/Ts
-- UX Guard
-- Dasar-dasar TypeScript
+- Security
 - interaktif animasi
 - Clean Code & atomic desain
 
