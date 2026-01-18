@@ -11,38 +11,32 @@ aku seorang **Fullstack Web Developer** yang fokus ngembangin skill **TypeScript
 
 ### ⚙️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notcore&layout=compact&hide=css,html,blade,c++,java,ruby,Shell,javascript)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notcore&theme=github)
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-- ⚙️ **Backend:** PHP, Laravel, Golang
-- 🎨 **Frontend:** JavaScript, ReactJS, TailwindCss
-- 🛠 **Tools:** Git, GitHub, VSCode, Laragon
-
-
+- ⚙️ **Backend:** PHP/Laravel
+- 🎨 **Frontend:** JavaScript, ReactJS, TypeScript, TailwindCss
 
 ### 📈 Saat ini aku belajar:
 - RESTFULL API (Laravel)
-- Dasar-dasar ReactJS
-- Dasar-dasar Golang
+- Dasar-dasar ReactJs/Ts
+- UX Guard
 - Dasar-dasar TypeScript
-- animasi scroll
-- Clean Code & Best Practice
-
+- interaktif animasi
+- Clean Code & atomic desain
 
 
 ### 📬 Kontak
 - Email: [davaelyanta@gmail.com](mailto:davaelyanta@gmail.com)
-- Instagram: @hyuma_dev
+- Instagram: @_.mistakee
 ---
 
-> persetan dengan orang yang menginjak orang lain hanya untuk meninggikan drajat sosialnya.
+> Playlist Spotify: [coding with spotify](https://open.spotify.com/playlist/5J1Go4d61PD77zYDDL1I4H?si=2700fa9e2e584ec0)
 
